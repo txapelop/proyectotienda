@@ -1,12 +1,23 @@
 Hombre
 	Running
 	Outdoor
+		Baloncesto
+		Airsoft
+		Patinaje
+	      
 	Montaña
+
 Niño
 	Running
 	Outdoor
+		Baloncesto
+		Patinaje
 	Montaña
+
 Mujer
 	Running
 	Outdoor
+		Baloncesto
+		Airsoft
+		Patinaje
 	Montaña
