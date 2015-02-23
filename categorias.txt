@@ -3,8 +3,7 @@ Hombre
 	Outdoor
 		Baloncesto
 		Airsoft
-		Patinaje
-	      
+		Patinaje	      
 	Montaña
 
 Niño
