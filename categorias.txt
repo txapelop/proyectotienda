@@ -1,0 +1,12 @@
+Hombre
+	Running
+	Outdoor
+	Montaña
+Niño
+	Running
+	Outdoor
+	Montaña
+Mujer
+	Running
+	Outdoor
+	Montaña
